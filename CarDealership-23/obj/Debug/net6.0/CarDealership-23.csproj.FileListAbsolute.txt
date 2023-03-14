@@ -1,0 +1,15 @@
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\CarDealership-23.csproj.AssemblyReference.cache
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\CarDealership-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\CarDealership-23.AssemblyInfoInputs.cache
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\CarDealership-23.AssemblyInfo.cs
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\CarDealership-23.csproj.CoreCompileInputs.cache
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\bin\Debug\net6.0\CarDealership-23.exe
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\bin\Debug\net6.0\CarDealership-23.deps.json
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\bin\Debug\net6.0\CarDealership-23.runtimeconfig.json
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\bin\Debug\net6.0\CarDealership-23.dll
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\bin\Debug\net6.0\CarDealership-23.pdb
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\CarDealership-23.dll
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\refint\CarDealership-23.dll
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\CarDealership-23.pdb
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\CarDealership-23.genruntimeconfig.cache
+C:\Users\Student\repos\CarDealership-23\CarDealership-23\obj\Debug\net6.0\ref\CarDealership-23.dll
